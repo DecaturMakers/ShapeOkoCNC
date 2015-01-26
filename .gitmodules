@@ -1,6 +1,0 @@
-[submodule "grbl"]
-	path = grbl
-	url = git@github.com:grbl/grbl.git
-[submodule "flatcam"]
-	path = flatcam
-	url = https://github.com/simen/flatcam.git
